@@ -1,1 +1,1 @@
-# robotframework-nodebook
+# robotframework-notebook
